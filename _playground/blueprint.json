@@ -8,6 +8,9 @@
 			"pluginData": {
 				"resource": "url",
 				"url": "https://github-proxy.com/proxy/?repo=juanma-wp/wp-components-edit-test"
+			},
+			"options": {
+				"activate": true
 			}
 		},
 		{
