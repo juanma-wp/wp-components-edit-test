@@ -8,7 +8,8 @@
 			"pluginData": {
 				"resource": "git:directory",
 				"url": "https://github.com/juanma-wp/wp-components-edit-test",
-				"ref": "HEAD"
+				"ref": "HEAD",
+				"path": "."
 			},
 			"options": {
 				"activate": true
