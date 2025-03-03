@@ -9,7 +9,7 @@
 				"resource": "git:directory",
 				"url": "https://github.com/juanma-wp/wp-components-edit-test",
 				"ref": "HEAD",
-				"path": "."
+				"path": "/"
 			},
 			"options": {
 				"activate": true
