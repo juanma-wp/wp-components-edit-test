@@ -1,0 +1,25 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "vip-learn/custom-components",
+	"version": "0.1.0",
+	"title": "Custom Components",
+	"category": "widgets",
+	"icon": "tool",
+	"description": "Example block scaffolded with Create Block tool.",
+	"example": {},
+	"supports": {
+		"html": false
+	},
+	"attributes": {
+		"color": {
+			"type": "string",
+			"default": "#000"
+		}
+	},
+	"textdomain": "custom-components",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+	"viewScript": "file:./view.js"
+}
